@@ -5,7 +5,7 @@ with open("requirements.txt") as fp:
 
 setuptools.setup(
     name="rsapi",
-    version="0.0.21",
+    version="0.0.22",
     author="ostracker.xyz",
     author_email="admin@ostracker.xyz",
     description="Python library for accessing Runescape APIs",
