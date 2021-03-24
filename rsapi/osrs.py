@@ -77,6 +77,7 @@ SKILLS = [
     "Sarachnis",
     "Scorpia",
     "Skotizo",
+    "Tempoross",
     "The Gauntlet",
     "The Corrupted Gauntlet",
     "Theatre of Blood",
